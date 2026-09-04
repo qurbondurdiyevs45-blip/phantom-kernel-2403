@@ -1,0 +1,15 @@
+{
+  "name": "phantom-kernel-2403",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 7941,
+    "createdAt": "2026-09-04T06:13:15.959Z"
+  }
+}
